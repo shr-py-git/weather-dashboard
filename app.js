@@ -1,7 +1,7 @@
 // Debug version of app.js - adds console logging to help diagnose "Search does nothing"
 // IMPORTANT: set your API key on the line below (replace 'YOUR_OPENWEATHERMAP_API_KEY')
 
-const API_KEY = '3bf2227a775a27fdf885a505034a3d70'; // <- put your real key here
+const API_KEY = '61689c2791f09388082fa68b62f81eee'; // <- put your real key here
 
 // Basic error capture for uncaught errors
 window.addEventListener('error', (e) => {
